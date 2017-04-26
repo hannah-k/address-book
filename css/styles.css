@@ -1,0 +1,25 @@
+.form-inline input:nth-child(1n+1) {
+  width: 32.8%;
+  /*margin: 0 0;*/
+}
+
+button {
+  width: 100%;
+}
+
+legend {
+  margin-top: 30px;
+}
+
+.contact {
+  width: 30%;
+  margin: 20px 1.667%;
+}
+
+.details {
+  opacity: 0;
+}
+
+.name {
+  text-transform: capitalize;
+}
